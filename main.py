@@ -1,4 +1,4 @@
-balance = float(500.50)
+balance = float(500.00)
 
 amount = ' '
 
